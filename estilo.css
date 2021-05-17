@@ -1,0 +1,25 @@
+/* body {
+    font-family: Garamond, serif;
+} */
+
+#pedidos {
+    margin: 5% auto;
+    margin-bottom: 10px;
+}
+
+#card-inicio-ifood {
+    margin: 10% auto;
+    margin-bottom: 10px;
+    width: 50rem;
+}
+
+#rodape {
+    background-color: #dc3545;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 20px 0 0 10px !important;
+    text-align: center;
+    color: white;
+}
